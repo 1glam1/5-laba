@@ -11,6 +11,6 @@
 ## Тесты
 1)
 ![image](https://github.com/1glam1/5-laba/assets/102163352/be9bc6a5-483b-415f-b5f5-c9f09d813d7f)
-2)
+1)
 ![image](https://github.com/1glam1/5-laba/assets/102163352/5e51981f-c1ac-400f-a981-34fe557b2e45)
 
