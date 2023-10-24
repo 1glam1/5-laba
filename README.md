@@ -10,7 +10,9 @@
 Запускать файл следует в терминале, который находится в нижней части VS Code.
 ## Тесты
 1)
-![image](https://github.com/1glam1/5-laba/assets/102163352/be9bc6a5-483b-415f-b5f5-c9f09d813d7f)
-1)
-![image](https://github.com/1glam1/5-laba/assets/102163352/5e51981f-c1ac-400f-a981-34fe557b2e45)
+  ![image](https://github.com/1glam1/5-laba/assets/102163352/49e12702-1de1-4573-8404-6e5896c411bf)
+2)
+  ![image](https://github.com/1glam1/5-laba/assets/102163352/c967052e-83c9-48f2-a532-1db6b0bfbd4d)
+
+
 
