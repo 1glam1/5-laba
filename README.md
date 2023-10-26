@@ -10,7 +10,7 @@
 Запускать файл следует в терминале, который находится в нижней части VS Code.
 ## Тесты
 1) Текст 'Привет'
-   ![image](https://github.com/1glam1/5-laba/assets/102163352/cde27e24-8c78-4607-9362-a9e8f169009d)
+    ![image](https://github.com/1glam1/5-laba/assets/102163352/cde27e24-8c78-4607-9362-a9e8f169009d)
 2) Текст 'Base' с ошибочным вводом
    ![image](https://github.com/1glam1/5-laba/assets/102163352/d4dbb3a8-9742-41b3-b700-4d77e9222049)
 
