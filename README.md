@@ -9,10 +9,13 @@
 Следует открыть файл Фт-220007 Корпусев.py.
 Запускать файл следует в терминале, который находится в нижней части VS Code.
 ## Тесты
-1) Текст 'abcd'
-   ![image](https://github.com/1glam1/5-laba/assets/102163352/a1e5d42c-3c33-439f-a310-0915f0226654)
-2) Текст 'azrd'
-   ![image](https://github.com/1glam1/5-laba/assets/102163352/71e44a77-a1fc-4755-bc2d-53bf0e34326a)
+1) Текст 'Привет'
+   ![image](https://github.com/1glam1/5-laba/assets/102163352/cde27e24-8c78-4607-9362-a9e8f169009d)
+2) Текст 'Base' с ошибочным вводом
+   ![image](https://github.com/1glam1/5-laba/assets/102163352/d4dbb3a8-9742-41b3-b700-4d77e9222049)
+
+
+   
 
 
 
